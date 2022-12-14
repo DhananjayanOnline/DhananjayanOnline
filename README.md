@@ -4,9 +4,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/media/522522daf8b5c0871a2cd66d0f423919.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjayanonline&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjayanonline" /> </p>
-
 <p align="left"> <a href="https://twitter.com/twr_dhananjayan" target="blank"><img src="https://img.shields.io/twitter/follow/twr_dhananjayan?logo=twitter&style=for-the-badge" alt="twr_dhananjayan" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjayanonline&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjayanonline" /> </p>
 
 - 🔭 I’m currently working on [Heythere.com](https://github.com/DhananjayanOnline/heythere.com)
 
