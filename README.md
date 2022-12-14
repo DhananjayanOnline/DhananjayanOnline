@@ -41,6 +41,3 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dhananjayanonline&show_icons=true&locale=en" alt="dhananjayanonline" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjayanonline&" alt="dhananjayanonline" /></p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhananjayanonline" alt="dhananjayanonline" /></a> </p>
