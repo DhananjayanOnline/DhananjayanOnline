@@ -6,6 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/twr_dhananjayan" target="blank"><img src="https://img.shields.io/twitter/follow/twr_dhananjayan?logo=twitter&style=for-the-badge" alt="twr_dhananjayan" /></a> </p>
 
+<p align="left">
+  <a href="https://instagram.com/dhananjay.haridas?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on-Instagram-%23bc2a8d?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjayanonline&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjayanonline" /> </p>
 
 - 🔭 I’m currently working on [Heythere.com](https://github.com/DhananjayanOnline/heythere.com)
