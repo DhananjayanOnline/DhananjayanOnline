@@ -1,5 +1,5 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Dhananjayan H</h1>
+<h1 align="center">Hi 👋, I'm Dhananjay Haridas</h1>
 <h3 align="center">A passionate Back-end developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/media/522522daf8b5c0871a2cd66d0f423919.gif">
@@ -14,13 +14,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjayanonline&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjayanonline" /> </p>
 
-- 🔭 I’m currently working on [Heythere.com](https://github.com/DhananjayanOnline/heythere.com)
+- 🔭 I’m currently working on [Heythere.com](https://github.com/DhananjayanOnline/pysniffer)
 
-- 🌱 I’m currently learning **Angular and FastAPI**
+- 🌱 I’m currently learning **Cyber Security**
 
 - 👨‍💻 All of my projects are available at [https://dhananjayan-portfolio.herokuapp.com/](https://dhananjayan-portfolio.herokuapp.com/)
 
-- 💬 Ask me about **Python, Django, DRF**
+- 💬 Ask me about **Python, Django, DRF, Fastapi**
 
 - 📫 How to reach me **dhananjayan.official@gmail.com**
 
